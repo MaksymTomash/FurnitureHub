@@ -2,6 +2,11 @@ html{
     font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -40,8 +45,6 @@ nav {
 }
 
 .nav-links a {
-    text-decoration: none;
-    color: black;
     font-size: 16px;
     transition: color 0.3s;
 }
@@ -73,6 +76,7 @@ nav {
     position: relative;
     margin-right: 200px;
     max-width: 150px;
+    cursor: pointer;
 }
 
 .catalog .arrow{
@@ -126,8 +130,6 @@ nav {
 }
 
 .header-option a{
-    text-decoration: none;
-    color: black;
     font-size: 16px;
     transition: color 0.3s;
 }
@@ -189,11 +191,6 @@ nav {
     margin-bottom: 15px;
 }
 
-.footer a{
-    text-decoration: none;
-    color: black;
-}
-
 .footer-content {
     display: flex;
     justify-content: space-between;
@@ -236,8 +233,6 @@ nav {
 
 .social-icons a {
     margin-top: 10px;
-    text-decoration: none;
-    color:black;
 }
 
 .hero {
@@ -266,7 +261,6 @@ nav {
     padding: 10px 20px;
     font-size: 1.2em;
     color: white;
-    text-decoration: none;
     border-radius: 5px;
     cursor: pointer;
     position: relative;
@@ -396,7 +390,6 @@ nav {
     display: block;
     margin-top: 10px;
     color: #007bff;
-    text-decoration: none;
     font-weight: bold;
 }
 
@@ -420,4 +413,119 @@ nav {
     padding: 5px 10px;
     font-size: 12px;
     border-radius: 5px;
+}
+.menu-wrap{
+    display: none;
+}
+
+.menu-wrap.open{
+    display: block;
+}
+
+.menu-wrap ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}
+
+.menu-wrap .menu-item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.menu-wrap .menu-item img{
+    width:54px;
+    height: 54px;
+    border-radius: 6px;
+    object-fit: scale-down;
+    overflow: hidden;
+    display: block;
+    margin-right: 10px;
+    background-color: #fff;
+}
+.menu-wrap .item1 img{
+    content: url('icon/category-1.svg');
+    border: 1px solid #909F44;
+}
+
+.menu-wrap .item1:hover{
+    img {
+        content: url('icon/category-1-w.svg');
+        background-color: #909F44;
+    }
+}
+
+.menu-wrap .item2 img{
+    content: url('icon/category-2.svg');
+    border: 1px solid #7F673B;
+}
+
+.menu-wrap .item2:hover{
+    img {
+        content: url('icon/category-2-w.svg');
+        background-color: #7F673B;
+    }
+}
+
+.menu-wrap .item3 img{
+    content: url('icon/category-3.svg');
+    border: 1px solid #86A1BA;
+}
+
+.menu-wrap .item3:hover{
+    img{
+    content: url('icon/category-3-w.svg');
+    background-color: #86A1BA;
+    }
+}
+
+.menu-wrap .item4 img{
+    content: url('icon/category-4.svg');
+    border: 1px solid #E5AE6B;
+}
+
+.menu-wrap .item4:hover{
+    img{
+        content: url('icon/category-4-w.svg');
+        background-color: #E5AE6B;
+    }
+}
+
+.menu-wrap a{
+    color: black;
+}
+
+.catalog-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+
+.catalog-list .item{
+    border: 1px solid #FFFFFF;
+    border-radius: 6px;
+    overflow: hidden;
+    width: 100%;
+    padding-bottom: 10px;
+    background: #f5eeee;
+    text-align: center;
+}
+
+.catalog-list a{
+    color: black;
+}
+
+.catalog-list .item img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
 }

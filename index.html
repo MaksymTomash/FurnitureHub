@@ -16,12 +16,11 @@
             </ul>
         </nav>
             <div class="navbar">
-                <button class="catalog">
+                <button class="catalog" id="catalog">
                     <img src="icon/catalog-icon.svg" alt="catalog" width="18" height="18">
                       Catalog
                     <img class="arrow" src="icon/arrow-left-black.svg" alt="catalog" width="18" height="18">
                 </button>
-
                 <div class="search" id="search">
                     <input type="text" class="search_input" name="search" value="" placeholder="Пошук товару у каталозі" autocomplete="off">
                     <button type="submit" class="btn-search"></button>
@@ -65,13 +64,34 @@
                     </ul>
                 </div>
             </div>
+
+        <div class="menu-wrap" id="menu-wrap">
+            <ul>
+                <li>
+                    <a class="menu-item item1" href="catalog.html">
+                        <img src="" alt="Садові меблі">
+                        Садові меблі
+                    </a>
+                </li>
+                <li><a class="menu-item item2" href="">
+                    <img src="" alt="Садовий інвентар">
+                    Садовий інвентар
+                </a></li>
+                <li><a class="menu-item item3" href="">
+                    <img src="" alt="Меблі для дому">
+                    Меблі для дому</a></li>
+                <li><a class="menu-item item4" href="">
+                    <img src="" alt="Меблі для кафе">
+                    Меблі для кафе</a></li>
+            </ul>
+        </div>
     </header>
     <main class="main-content">
         <section class="hero">
             <div class="hero-content">
                 <h1>Вітаємо у FurnitureHub!</h1>
                 <p>Ми пропонуємо найкращі меблі для дому та саду, що поєднують стиль і якість.</p>
-                <a href="#" class="btn-main">Переглянути колекцію</a>
+                <a href="catalog.html" class="btn-main">Переглянути колекцію</a>
             </div>
             <img src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Меблі для дому та саду" class="hero-image">
         </section>
@@ -172,5 +192,6 @@
                 </p>
             </div>
     </footer>
+<script src="scripts.js"></script>
 </body>
 </html>
