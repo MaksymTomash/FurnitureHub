@@ -1,0 +1,242 @@
+html{
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f9fafb;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #c6f6d5;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.catalog{
+    border: 1px solid #909F44;
+    box-sizing: border-box;
+    border-radius: 6px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    padding: 0 70px 0 20px;
+    font-size: 14px;
+    line-height: 130%;
+    color: #1B1718;
+    position: relative;
+    margin-right: 200px;
+    max-width: 150px;
+}
+
+.catalog .arrow{
+    position: absolute;
+    width: 6px;
+    height: 9px;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%) rotate(-90deg);
+}
+
+.catalog img{
+    margin-right: 10px;
+}
+
+.search {
+    position: relative;
+    flex: 1;
+    max-width: 360px;
+}
+
+.search input {
+    width: 100%;
+    height: 44px;
+    background: #FAF6F2;
+    border: 1px solid #F0ECE8;
+    border-radius: 6px;
+    padding: 0 50px 0 10px;
+    font-size: 14px;
+    color: #333;
+    outline: none;
+}
+
+.btn-search {
+    background: #FFFFFF url('icon/search.svg') center no-repeat;
+    border: 1px solid #F0ECE8;
+    border-radius: 0 6px 6px 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 44px;
+    width: 44px;
+    cursor: pointer;
+    transition: all 0.35s;
+}
+
+.header-option{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-option a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+.header-option ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.header-option li {
+    margin-right: 10px;
+}
+
+.header-option .count {
+    background: #909F44;
+    top: -4px;
+    right: -4px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 16px;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 100%;
+    color: #FFFFFF;
+    position: absolute;
+    padding: 0 3px;
+    text-align: center;
+}
+
+.header-option ul li a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    border: 1px solid #F5F1ED;
+    border-radius: 6px;
+    position: relative;
+}
+
+.footer{
+    background: #F5F1ED;
+    padding: 20px 0;
+    margin-top: auto;
+}
+.footer .title{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 130%;
+    color: #1B1718;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #E6E2DE;
+    margin-bottom: 15px;
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.footer-content p {
+    margin: 0;
+}
+
+.footer-section {
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
+.footer-section ul {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    list-style: none;
+}
+
+.footer-section li {
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+
+.footer-bottom {
+    text-align: center;
+    border-top: 1px solid #F5F1ED;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    margin-top: 10px;
+    text-decoration: none;
+    color:black;
+}
+
