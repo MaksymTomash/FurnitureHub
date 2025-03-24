@@ -1,0 +1,4186 @@
+{
+    "furniture": [
+        {
+            "id": "32829",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32829",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/helena/014_helen_olive_green_front_side-16633171271-260x260.webp",
+            "title": "Стілець Siesta Helen Olive Green",
+            "price": "2 967 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "Стілець",
+                "Ширина, см": "58",
+                "Висота, см": "84",
+                "Глибина, см": "59",
+                "Збирання": "незбірний",
+                "Колір": "зелений",
+                "Вага, кг": "3.75",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32824",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32824",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris/031_paris_marsala_front_side-1663250479-260x260.webp",
+            "title": "Стілець Siesta Paris Marsala",
+            "price": "3 182 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "Стілець",
+                "Ширина, см": "58",
+                "Висота, см": "84",
+                "Глибина, см": "59",
+                "Збирання": "незбірний",
+                "Колір": "червоний",
+                "Вага, кг": "4.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32328",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32328",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/skyfoldingtable%C3%9860/033_sky_folding_table_60_y_olive_green_front-1629811671-260x260.webp",
+            "title": "Стіл круглий Siesta Sky Folding Table 60 Olive Green",
+            "price": "5 332 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "круглий",
+                "Ширина, см": "60",
+                "Висота, см": "74",
+                "Довжина, см": "60",
+                "Збирання": "збірний",
+                "Колір": "оливковий",
+                "Вага, кг": "7,25",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32302",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32302",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/loft/014_loft_olive_green_front_side-1558005774-260x260.webp",
+            "title": "Стілець Siesta Loft Olive Green",
+            "price": "2 881 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "Стілець",
+                "Ширина, см": "54",
+                "Висота, см": "82",
+                "Глибина, см": "53",
+                "Збирання": "незбірний",
+                "Колір": "оливковий",
+                "Вага, кг": "3.8",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32178",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32178",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/skylounger/024_sky_lounge_white_front_side_low-1524655758-260x260.webp",
+            "title": "Стілець Siesta Sky Lounge White",
+            "price": "4 558 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "Стілець",
+                "Ширина, см": "60",
+                "Висота, см": "83",
+                "Глибина, см": "73",
+                "Збирання": "збірний",
+                "Колір": "білий",
+                "Вага, кг": "5.2",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32176",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32176",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/skypro/009_sky_pro_darkgrey_front_side-1635322922-260x260.webp",
+            "title": "Стілець Siesta Sky Pro Dark Grey",
+            "price": "3 784 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "Стілець",
+                "Ширина, см": "54",
+                "Висота, см": "81",
+                "Глибина, см": "60",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "4,5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32186",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32186",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/snow/004_snow_black_front_side_low-1485602311-260x260.webp",
+            "title": "Стілець Siesta Snow Black",
+            "price": "2 752 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "Стілець",
+                "Ширина, см": "52",
+                "Висота, см": "83",
+                "Глибина, см": "56",
+                "Збирання": "незбірний",
+                "Колір": "чорний",
+                "Вага, кг": "4.4",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32081",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32081",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/doga/dogaarm/img_5950-260x260.webp",
+            "title": "Стілець NARDI Doga Armchair Menta",
+            "price": "3 938 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "60",
+                "Висота, см": "83,5",
+                "Глибина, см": "56,5",
+                "Збирання": "незбірний",
+                "Колір": "зелений",
+                "Вага, кг": "4,8",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "32085",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32085",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/doga/bistrot/img_5957-260x260.webp",
+            "title": "Стілець NARDI Doga Bistrot Marsala",
+            "price": "3 465 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "53",
+                "Висота, см": "82,5",
+                "Глибина, см": "55",
+                "Збирання": "незбірний",
+                "Колір": "бордовий",
+                "Вага, кг": "4",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "32094",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32094",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/doga/relax/img_5967-260x260.webp",
+            "title": "Крісло NARDI Doga Relax Pera",
+            "price": "5 085 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "70",
+                "Висота, см": "76",
+                "Глибина, см": "75,5",
+                "Збирання": "незбірний",
+                "Колір": "зелений",
+                "Вага, кг": "6",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "32730",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32730",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/nardi/netlounge/img_8187-260x260.webp",
+            "title": "Крісло NARDI Net Lounge Corallo",
+            "price": "6 120 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "крісло",
+                "Ширина, см": "61.5",
+                "Висота, см": "99",
+                "Глибина, см": "90",
+                "Збирання": "незбірний",
+                "Колір": "червоний",
+                "Вага, кг": "5.3",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33760",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33760",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/atlantic_table/010_atlantic_table_k210_black_extension_part-1663334041-260x260.webp",
+            "title": "Стіл Siesta Atlantic Table 140/210 Black",
+            "price": "30 745 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "100",
+                "Висота, см": "76",
+                "Довжина, см": "140-210",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "41",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33762",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33762",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/atlantic_table/011_atlantic_table_k210_taupe_extension_part-1663333946-260x260.webp",
+            "title": "Стіл Siesta Atlantic Table 140/210 Taupe",
+            "price": "30 745 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "100",
+                "Висота, см": "76",
+                "Довжина, см": "140-210",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "41",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33761",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33761",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/atlantic_table/012_atlantic_table_k210_white_extension_part-1665483384-260x260.webp",
+            "title": "Стіл Siesta Atlantic Table 140/210 White",
+            "price": "30 745 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "100",
+                "Висота, см": "76",
+                "Довжина, см": "140-210",
+                "Збирання": "збірний",
+                "Колір": "білий",
+                "Вага, кг": "41",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33756",
+            "tags": [],
+            "link": "product.html?product_id=33756",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/001_paris_table_70_black_front-1713948805-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 Black",
+            "price": "7 396 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33758",
+            "tags": [],
+            "link": "product.html?product_id=33758",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/004_paris_table_70_darkgrey_front-1713948747-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 Dark Grey",
+            "price": "7 396 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33759",
+            "tags": [],
+            "link": "product.html?product_id=33759",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/007_paris_table_70_taupe_front-1713948684-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 Taupe",
+            "price": "7 396 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33757",
+            "tags": [],
+            "link": "product.html?product_id=33757",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/010_paris_table_70_white_front-1713948609-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 White",
+            "price": "7 396 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "білий",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32236",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32236",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/70skytabel/001_sky_table_70_black_front-1540282268-260x260.webp",
+            "title": "Стіл Siesta Sky Table 70 Black",
+            "price": "7 396 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "8510",
+            "tags": [],
+            "link": "product.html?product_id=8510",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8510/1/img_827-1280x768-260x260.webp",
+            "title": "Стілець NARDI Trill Bistrot Antracite Графіт",
+            "price": "3 443 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Полипропилен",
+                "Тип": "стілець",
+                "Ширина, см": "50",
+                "Висота, см": "82.5",
+                "Глибина, см": "51.5",
+                "Збирання": "незбірний",
+                "Колір": "сірий",
+                "Вага, кг": "4.2",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "8524",
+            "tags": [],
+            "link": "product.html?product_id=8524",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8524/1/img_832-1280x768-260x260.webp",
+            "title": "Крісло NARDI Trill Armchair Senape Жовте",
+            "price": "3 803 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "58.5",
+                "Висота, см": "82.5",
+                "Глибина, см": "53.5",
+                "Збирання": "незбірний",
+                "Колір": "жовтий",
+                "Вага, кг": "4.7",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "10239",
+            "tags": [
+                "Хіт"
+            ],
+            "link": "product.html?product_id=10239",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10239/1/nardi_8910-1280x768-260x260.webp",
+            "title": "Стіл NARDI ClipX 70 Antracite Антрацит",
+            "price": "8 100 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "75",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "11",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "32857",
+            "tags": [
+                "Новинка",
+                "-19%"
+            ],
+            "link": "product.html?product_id=32857",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/dario/dario-sirij-2024/img01791-260x260.webp",
+            "title": "Стілець Onto Даріо Сірий",
+            "price": "2 500 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "45",
+                "Висота, см": "81.5",
+                "Довжина, см": "50",
+                "Збирання": "розбірний",
+                "Колір": "сірий",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "8771",
+            "tags": [],
+            "link": "product.html?product_id=8771",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8771/1/img_3693-1280x768-260x260.webp",
+            "title": "Барний стілець NARDI Trill Stool Mini Grigio Сірий",
+            "price": "4 140 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "50",
+                "Висота, см": "85.5",
+                "Глибина, см": "53",
+                "Збирання": "незбірний",
+                "Колір": "сірий",
+                "Вага, кг": "4.7",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "10237",
+            "tags": [],
+            "link": "product.html?product_id=10237",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10237/1/clip80_bianco-1280x768-260x260.webp",
+            "title": "Стіл NARDI Clip 80 Bianco Білий",
+            "price": "8 550 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "80",
+                "Висота, см": "75",
+                "Довжина, см": "80",
+                "Збирання": "збірний",
+                "Колір": "білий",
+                "Вага, кг": "12.1",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33657",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33657",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/arcos/hoker-arcos-2-szare-welurowe%284%29-260x260.webp",
+            "title": "Барний стілець Arcos велюр сірий",
+            "price": "2 850 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "45",
+                "Висота, см": "112",
+                "Глибина, см": "42",
+                "Збирання": "збірний",
+                "Колір": "Сірий",
+                "Вага, кг": "7",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "8709",
+            "tags": [],
+            "link": "product.html?product_id=8709",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8709/1/img_1203-1280x768-260x260.webp",
+            "title": "Барний стілець NARDI Trill Stool Agave Зелений",
+            "price": "4 140 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "50",
+                "Висота, см": "96.5",
+                "Глибина, см": "53",
+                "Збирання": "незбірний",
+                "Колір": "зелений",
+                "Вага, кг": "5.1",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "10234",
+            "tags": [],
+            "link": "product.html?product_id=10234",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10234/1/clip70_tortora-1280x768-260x260.webp",
+            "title": "Стіл NARDI Clip 70 Tortora Кава",
+            "price": "8 100 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "75",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "11",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "32863",
+            "tags": [
+                "Новинка",
+                "-9%"
+            ],
+            "link": "product.html?product_id=32863",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/robin-piado/siri/krzeslo-do-jadalni-welurowe-robin-szare-nowoczesne-loft%284%29-260x260.webp",
+            "title": "Стілець Piado велюр сірий",
+            "price": "1 500 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "44",
+                "Висота, см": "89",
+                "Глибина, см": "52",
+                "Збирання": "збірний",
+                "Колір": "Сірий",
+                "Вага, кг": "5",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "10243",
+            "tags": [],
+            "link": "product.html?product_id=10243",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10243/1/nardi_8913-1280x768-260x260.webp",
+            "title": "Стіл NARDI ClipX 80 Antracite Антрацит",
+            "price": "8 550 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "80",
+                "Висота, см": "75",
+                "Довжина, см": "80",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "12.1",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "8793",
+            "tags": [],
+            "link": "product.html?product_id=8793",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8793/1/img_2812-1280x768-260x260.webp",
+            "title": "Барний стілець NARDI Net Stool Mini Tortora Кава",
+            "price": "4 388 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "51",
+                "Висота, см": "90",
+                "Глибина, см": "48",
+                "Збирання": "незбірний",
+                "Колір": "бежевий",
+                "Вага, кг": "4.2",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "12657",
+            "tags": [],
+            "link": "product.html?product_id=12657",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/12657/1/img_1149-1280x768-260x260.webp",
+            "title": "Стіл NARDI Spritz Antracite Антрацит",
+            "price": "3 443 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "60.5",
+                "Висота, см": "76.5",
+                "Довжина, см": "60.5",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "4.3",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33498",
+            "tags": [],
+            "link": "product.html?product_id=33498",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/lucky/black/image%2830%29-260x260.webp",
+            "title": "Стілець кухоний Lucky Чорний",
+            "price": "2 000 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / велюр",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "47",
+                "Висота, см": "87",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "32845",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32845",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/nardi/doga-stool/img_9010-260x260.webp",
+            "title": "Барний стілець NARDI Doga Stool Marsala",
+            "price": "4 253 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "барний стілець",
+                "Ширина, см": "51",
+                "Висота, см": "100",
+                "Глибина, см": "49.5",
+                "Збирання": "незбірний",
+                "Колір": "червоний",
+                "Вага, кг": "5.1",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "8779",
+            "tags": [],
+            "link": "product.html?product_id=8779",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8779/1/nardi_9025-1280x768-260x260.webp",
+            "title": "Барний стілець NARDI Net Stool Antracite Антрацит",
+            "price": "4 388 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "49",
+                "Висота, см": "101.5",
+                "Глибина, см": "52.5",
+                "Збирання": "незбірний",
+                "Колір": "чорний",
+                "Вага, кг": "4.4",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "10217",
+            "tags": [],
+            "link": "product.html?product_id=10217",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10217/1/cube70_tortora-1280x768-260x260.webp",
+            "title": "Стіл NARDI Cube 70 Tortora Vern Tortora Кава",
+            "price": "9 630 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Алюміній / поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "70",
+                "Висота, см": "75.5",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "9.5",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33081",
+            "tags": [
+                "Новинка",
+                "-19%"
+            ],
+            "link": "product.html?product_id=33081",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/dario/bezhevi-bili-nizhki/img00887-260x260.webp",
+            "title": "Стілець Onto Даріо Бежевий білі ніжки",
+            "price": "2 500 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "45",
+                "Висота, см": "81.5",
+                "Довжина, см": "50",
+                "Збирання": "розбірний",
+                "Колір": "бежевий",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "10223",
+            "tags": [],
+            "link": "product.html?product_id=10223",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10223/1/cube80_antracite-1280x768-260x260.webp",
+            "title": "Стіл NARDI Cube 80 Antracite Vern Antracite Антрацит",
+            "price": "10 125 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Алюміній / поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "80",
+                "Висота, см": "75.5",
+                "Довжина, см": "80",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "11.5",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "8634",
+            "tags": [],
+            "link": "product.html?product_id=8634",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8634/1/bit_salice-1280x768-260x260.webp",
+            "title": "Стілець NARDI Bit Salice Зелений",
+            "price": "3 555 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "52",
+                "Висота, см": "84",
+                "Глибина, см": "55",
+                "Збирання": "незбірний",
+                "Колір": "зелений",
+                "Вага, кг": "3.5",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "8651",
+            "tags": [],
+            "link": "product.html?product_id=8651",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8651/1/img_4509-1280x768-260x260.webp",
+            "title": "Крісло NARDI Folio Agave Зелене",
+            "price": "6 908 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "72",
+                "Висота, см": "113",
+                "Глибина, см": "92.5",
+                "Збирання": "незбірний",
+                "Колір": "зелений",
+                "Вага, кг": "5",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "10227",
+            "tags": [],
+            "link": "product.html?product_id=10227",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/10227/1/nardi_9036-1280x768-260x260.webp",
+            "title": "Стіл NARDI Cube 140 Antracite Vern Antracite Антрацит",
+            "price": "14 220 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "Алюміній / поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "80",
+                "Висота, см": "75.5",
+                "Довжина, см": "140",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "16.9",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33519",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33519",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/lucky/black-white/krzeslo-lucky-czarne-z-bialymi-n%287%29-260x260.webp",
+            "title": "Стілець кухоний Lucky Чорний білі ніжки",
+            "price": "2 000 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / велюр",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "47",
+                "Висота, см": "87",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "33517",
+            "tags": [],
+            "link": "product.html?product_id=33517",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/rick/black-tkanina/krzeslo-rick-2-czarne-tapicerowa%285%29-260x260.webp",
+            "title": "Стілець кухоний RICK Чорний з тканини",
+            "price": "2 499 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "53",
+                "Висота, см": "87",
+                "Глибина, см": "59",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "8560",
+            "tags": [],
+            "link": "product.html?product_id=8560",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8560/1/palma_bianco_tortora-1280x768-260x260.webp",
+            "title": "Крісло NARDI Palma Bianco Tortora",
+            "price": "3 375 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стілець",
+                "Ширина, см": "59",
+                "Висота, см": "86",
+                "Глибина, см": "56.5",
+                "Збирання": "незбірний",
+                "Колір": "бежевий",
+                "Вага, кг": "5.4",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "31994",
+            "tags": [],
+            "link": "product.html?product_id=31994",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/nardi/img_4514-260x260.webp",
+            "title": "Крісло качалка NARDI Folio Rocking Anthracite",
+            "price": "9 090 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "крісло",
+                "Ширина, см": "72",
+                "Висота, см": "112-119",
+                "Глибина, см": "92.5",
+                "Збирання": "незбірний",
+                "Колір": "чорний",
+                "Вага, кг": "5",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33422",
+            "tags": [
+                "-6%"
+            ],
+            "link": "product.html?product_id=33422",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/peru/bezhevi/krzeslo-tapicerowane-do-jadalni-peru-bezowe-welurowe-nowoczesne-loft%287%29-260x260.webp",
+            "title": "Стілець Peru велюр бежевий",
+            "price": "1 650 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "42",
+                "Висота, см": "91.5",
+                "Глибина, см": "52",
+                "Збирання": "збірний",
+                "Колір": "Бежевий",
+                "Вага, кг": "5",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "33521",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33521",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/lucky/black-gold/krzeslo-lucky-czarne-ze-zlotymi%285%29-260x260.webp",
+            "title": "Стілець кухоний Lucky Чорний золоті ніжки",
+            "price": "2 000 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "метал / велюр",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "47",
+                "Висота, см": "87",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "8537",
+            "tags": [],
+            "link": "product.html?product_id=8537",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/8537/1/net_senape-1280x768-260x260.webp",
+            "title": "Крісло NARDI Net Senape Жовте",
+            "price": "4 095 ₴",
+            "category": "cafe-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "крісло",
+                "Ширина, см": "60.5",
+                "Висота, см": "80",
+                "Глибина, см": "58.5",
+                "Збирання": "незбірний",
+                "Колір": "жовтий",
+                "Вага, кг": "4.1",
+                "Країна виробник": "Італія"
+            }
+        },
+        {
+            "id": "33435",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33435",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/ukrainskiekonstrukcii/alvaro/new/art07386copy-260x260.webp",
+            "title": "Садова гойдалка Альваро Коричнева",
+            "price": "25 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина / ротанг",
+                "Тип": "Тримісні",
+                "Ширина, см": "135",
+                "Висота, см": "190",
+                "Довжина, см": "200",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33749",
+            "tags": [],
+            "link": "product.html?product_id=33749",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/ukrainskiekonstrukcii/alvaro/new/art07461copy-260x260.webp",
+            "title": "Садова гойдалка Альваро Сіра",
+            "price": "25 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина / ротанг",
+                "Тип": "Тримісні",
+                "Ширина, см": "135",
+                "Висота, см": "190",
+                "Довжина, см": "200",
+                "Збирання": "розбірні",
+                "Колір": "сірий",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33419",
+            "tags": [],
+            "link": "product.html?product_id=33419",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/ukrainskiekonstrukcii/bimbo/4-3-600x600-260x260.webp",
+            "title": "Садова гойдалка Бімбо Сіра",
+            "price": "8 500 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "Двомісний",
+                "Ширина, см": "104",
+                "Висота, см": "120",
+                "Глибина, см": "73",
+                "Колір": "Сірий",
+                "Вага, кг": "65",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5609",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=5609",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/030/photoroom_20240220_111338-260x260.webp",
+            "title": "Садова гойдалка Барна Сіра 030",
+            "price": "19 700 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "сірий",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32148",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=32148",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/bordo/0942-260x260.webp",
+            "title": "Садова гойдалка Бордо 026",
+            "price": "19 900 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "бордовий",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6008",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=6008",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/027/photoroom_20240219_102509-260x260.webp",
+            "title": "Садова гойдалка Бордо 027",
+            "price": "19 700 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "бордовий/фіолетовий",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32490",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=32490",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/032/photoroom_20240220_114347-260x260.webp",
+            "title": "Садова гойдалка Брауні 032 Коричнева",
+            "price": "19 900 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32149",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=32149",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/brauni/033/54879464899-260x260.webp",
+            "title": "Садова гойдалка Брауні 033 Коричневв",
+            "price": "19 900 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32150",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=32150",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/brauni/090/32168465489-260x260.webp",
+            "title": "Садова гойдалка Брауні 090 Тік",
+            "price": "19 900 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "бежевий/помаранчевий",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5788",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=5788",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/011/photoroom_20240220_113005-260x260.webp",
+            "title": "Садова гойдалка Бренда 011 Коричнева",
+            "price": "17 999 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5303",
+            "tags": [],
+            "link": "product.html?product_id=5303",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5303/1/DSC_1404-260x260.webp",
+            "title": "Садова гойдалка Веселка",
+            "price": "16 200 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "215",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "зелений/рожевий/жовтий",
+                "Вага, кг": "62",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5317",
+            "tags": [],
+            "link": "product.html?product_id=5317",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5317/1/DSC_1404-260x260.webp",
+            "title": "Садова гойдалка Веселка Преміум",
+            "price": "18 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "225",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "зелений/рожевий/жовтий",
+                "Вага, кг": "70",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "23990",
+            "tags": [],
+            "link": "product.html?product_id=23990",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/23990/1/1184846443265959-260x260.webp",
+            "title": "Садова гойдалка з ротанга Marou Біла",
+            "price": "70 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "155",
+                "Висота, см": "227",
+                "Довжина, см": "290",
+                "Підголівник": "ні",
+                "Збирання": "розбірний",
+                "Колір": "білий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5324",
+            "tags": [],
+            "link": "product.html?product_id=5324",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/marou/dsc_0610-260x260.webp",
+            "title": "Садова гойдалка з ротанга Marou Коричнева",
+            "price": "70 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "155",
+                "Висота, см": "227",
+                "Довжина, см": "290",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "23991",
+            "tags": [],
+            "link": "product.html?product_id=23991",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/23991/1/DSC_0562-260x260.webp",
+            "title": "Садова гойдалка з ротанга Marou Лоза",
+            "price": "70 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "155",
+                "Висота, см": "227",
+                "Довжина, см": "290",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "бежевий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "31835",
+            "tags": [],
+            "link": "product.html?product_id=31835",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/31835/1/DSC_0822-260x260.webp",
+            "title": "Садова гойдалка з ротанга RIVERA Premium Бежева",
+            "price": "38 400 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "202",
+                "Висота, см": "180",
+                "Глибина, см": "154",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "білий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "23994",
+            "tags": [],
+            "link": "product.html?product_id=23994",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/23994/1/DSC_0320-260x260.webp",
+            "title": "Садова гойдалка з ротанга RIVERA Бежева",
+            "price": "32 400 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "202",
+                "Висота, см": "180",
+                "Глибина, см": "154",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "бежевий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "31832",
+            "tags": [],
+            "link": "product.html?product_id=31832",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/31832/1/DSC_0999-2-260x260.webp",
+            "title": "Садова гойдалка з ротанга RIVERA Каштан",
+            "price": "32 400 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "202",
+                "Висота, см": "180",
+                "Глибина, см": "154",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "31831",
+            "tags": [],
+            "link": "product.html?product_id=31831",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/ukrainskiekonstrukcii/rivera/zobrazhennja_viber_2024-07-04_16-46-11-151-260x260.webp",
+            "title": "Садова гойдалка з ротанга RIVERA Сіра",
+            "price": "32 400 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісні",
+                "Ширина, см": "202",
+                "Висота, см": "180",
+                "Глибина, см": "154",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "сірий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "31833",
+            "tags": [],
+            "link": "product.html?product_id=31833",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/31833/1/002-260x260.webp",
+            "title": "Садова гойдалка з ротанга RIVERA Тік",
+            "price": "32 400 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Метал / ротанг / подушка",
+                "Тип": "Тримісний",
+                "Ширина, см": "202",
+                "Висота, см": "180",
+                "Глибина, см": "154",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33420",
+            "tags": [],
+            "link": "product.html?product_id=33420",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/ukrainskiekonstrukcii/karleone/sadovaja1-260x260.webp",
+            "title": "Садова гойдалка з ротанга Карлеоне Сіра",
+            "price": "45 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / ротанг",
+                "Тип": "Двомісний",
+                "Ширина, см": "197",
+                "Висота, см": "195",
+                "Глибина, см": "130",
+                "Колір": "Сірий",
+                "Вага, кг": "65",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5320",
+            "tags": [],
+            "link": "product.html?product_id=5320",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5320/1/DSC_0163-260x260.webp",
+            "title": "Садова гойдалка Корса Преміум Зелена",
+            "price": "20 500 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "225",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "зелений",
+                "Вага, кг": "70",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32146",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=32146",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/laguna/092/0922-260x260.webp",
+            "title": "Садова гойдалка Лагуна 092 Синя",
+            "price": "19 900 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "синій",
+                "Вага, кг": "69",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32145",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=32145",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/laguna/093/0932-260x260.webp",
+            "title": "Садова гойдалка Лагуна 093 Блакитний горох",
+            "price": "19 700 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "синій/голубий",
+                "Вага, кг": "69",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5790",
+            "tags": [
+                "Безкоштовно",
+                "-10%"
+            ],
+            "link": "product.html?product_id=5790",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/012/photoroom_20240220_142038-260x260.webp",
+            "title": "Садова гойдалка Мальта 012 Зелена",
+            "price": "17 099 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "зелений",
+                "Вага, кг": "61",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6006",
+            "tags": [
+                "Безкоштовно",
+                "-10%"
+            ],
+            "link": "product.html?product_id=6006",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/013/photoroom_20240220_142744-260x260.webp",
+            "title": "Садова гойдалка Мальта 013 Клітка",
+            "price": "17 099 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "синій/білий",
+                "Вага, кг": "61",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6007",
+            "tags": [
+                "Безкоштовно",
+                "-10%"
+            ],
+            "link": "product.html?product_id=6007",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/014/photoroom_20240220_144247-260x260.webp",
+            "title": "Садова гойдалка Мальта 014 Клітка",
+            "price": "17 099 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "зелений/білий",
+                "Вага, кг": "61",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6005",
+            "tags": [
+                "Безкоштовно",
+                "-10%"
+            ],
+            "link": "product.html?product_id=6005",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/075/photoroom_20240220_144621-260x260.webp",
+            "title": "Садова гойдалка Мальта Соло 075 Зелена",
+            "price": "16 650 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "зелений",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5791",
+            "tags": [
+                "Безкоштовно",
+                "-10%"
+            ],
+            "link": "product.html?product_id=5791",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/076/photoroom_20240220_145023-260x260.webp",
+            "title": "Садова гойдалка Мальта Соло 076",
+            "price": "16 650 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "синій/білий",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5792",
+            "tags": [
+                "Безкоштовно",
+                "-10%"
+            ],
+            "link": "product.html?product_id=5792",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/077/photoroom_20240220_145540-260x260.webp",
+            "title": "Садова гойдалка Мальта Соло 077",
+            "price": "16 650 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "зелений/білий",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5310",
+            "tags": [],
+            "link": "product.html?product_id=5310",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5310/1/DSC_0500-260x260.webp",
+            "title": "Садова гойдалка Марсель Зелена клітина",
+            "price": "18 200 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "215",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "зелений/салатний",
+                "Вага, кг": "62",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5314",
+            "tags": [],
+            "link": "product.html?product_id=5314",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5314/1/DSC_0500-260x260.webp",
+            "title": "Садова гойдалка Марсель Преміум Зелена клітина",
+            "price": "18 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "225",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "зелений/салатний",
+                "Вага, кг": "70",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "31896",
+            "tags": [],
+            "link": "product.html?product_id=31896",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/31896/1/DSC_0419-260x260.webp",
+            "title": "Садова гойдалка Олександрія Сині квіти",
+            "price": "20 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "225",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "коричневий/білий/синій",
+                "Вага, кг": "62",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5321",
+            "tags": [],
+            "link": "product.html?product_id=5321",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5321/1/DSC_0533-260x260.webp",
+            "title": "Садова гойдалка Патіо Преміум Зелена",
+            "price": "18 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "225",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "зелений/салатний",
+                "Вага, кг": "70",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32946",
+            "tags": [],
+            "link": "product.html?product_id=32946",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/goidalky/dsc_0400-2kopija-1000x663-260x260.webp",
+            "title": "Садова гойдалка Помаранчевий Піон",
+            "price": "16 200 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісні",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "215",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "помаранчевий",
+                "Вага, кг": "62",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32668",
+            "tags": [],
+            "link": "product.html?product_id=32668",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/ukrainskiekonstrukcii/sandra/sadovajakachelja-sandra%2814%29-1000x686.10634648371-260x260.webp",
+            "title": "Садова гойдалка Сандра квіти",
+            "price": "21 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "225",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "коричневий",
+                "Вага, кг": "62",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5771",
+            "tags": [],
+            "link": "product.html?product_id=5771",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/5771/1/DSC_0338-260x260.webp",
+            "title": "Садова гойдалка Софія Преміум Клітинка",
+            "price": "27 000 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "чотиримісний",
+                "Ширина, см": "145",
+                "Висота, см": "198",
+                "Довжина, см": "245",
+                "Підголівник": "так",
+                "Збирання": "розбірні",
+                "Колір": "бежевий/сірий",
+                "Вага, кг": "82",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6009",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=6009",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/021/photoroom_20240221_154759-260x260.webp",
+            "title": "Садова гойдалка Таїті 021 Зелена",
+            "price": "19 700 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "зелений",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6010",
+            "tags": [
+                "Безкоштовно"
+            ],
+            "link": "product.html?product_id=6010",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/gringard/022/photoroom_20240221_154248-260x260.webp",
+            "title": "Садова гойдалка Таїті 022 Квіти",
+            "price": "19 700 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "Тримісний",
+                "Ширина, см": "160",
+                "Висота, см": "178",
+                "Довжина, см": "212",
+                "Підголівник": "ні",
+                "Збирання": "розбірні",
+                "Колір": "білий/рожевий/зелений",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33760",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33760",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/atlantic_table/010_atlantic_table_k210_black_extension_part-1663334041-260x260.webp",
+            "title": "Стіл Siesta Atlantic Table 140/210 Black",
+            "price": "30 745 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "100",
+                "Висота, см": "76",
+                "Довжина, см": "140-210",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "41",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33762",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33762",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/atlantic_table/011_atlantic_table_k210_taupe_extension_part-1663333946-260x260.webp",
+            "title": "Стіл Siesta Atlantic Table 140/210 Taupe",
+            "price": "30 745 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "100",
+                "Висота, см": "76",
+                "Довжина, см": "140-210",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "41",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33761",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33761",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/atlantic_table/012_atlantic_table_k210_white_extension_part-1665483384-260x260.webp",
+            "title": "Стіл Siesta Atlantic Table 140/210 White",
+            "price": "30 745 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "100",
+                "Висота, см": "76",
+                "Довжина, см": "140-210",
+                "Збирання": "збірний",
+                "Колір": "білий",
+                "Вага, кг": "41",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33756",
+            "tags": [],
+            "link": "product.html?product_id=33756",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/001_paris_table_70_black_front-1713948805-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 Black",
+            "price": "7 396 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33758",
+            "tags": [],
+            "link": "product.html?product_id=33758",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/004_paris_table_70_darkgrey_front-1713948747-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 Dark Grey",
+            "price": "7 396 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33759",
+            "tags": [],
+            "link": "product.html?product_id=33759",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/007_paris_table_70_taupe_front-1713948684-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 Taupe",
+            "price": "7 396 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33757",
+            "tags": [],
+            "link": "product.html?product_id=33757",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/paris_table/010_paris_table_70_white_front-1713948609-260x260.webp",
+            "title": "Стіл Siesta Paris Table 70 White",
+            "price": "7 396 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "білий",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32236",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32236",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/70skytabel/001_sky_table_70_black_front-1540282268-260x260.webp",
+            "title": "Стіл Siesta Sky Table 70 Black",
+            "price": "7 396 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "поліпропілен",
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "70",
+                "Висота, см": "74",
+                "Довжина, см": "70",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "13.5",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "32341",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32341",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/siesta/oceansidetable/005_ocean_side_table_taupe_front_side-1542875397-260x260.webp",
+            "title": "Стіл для шезлонгу Siesta Ocean Side Table Taupe",
+            "price": "1 763 ₴",
+            "category": "garden-furniture",
+            "characteristics": {
+                "Матеріал": "Поліпропілен",
+                "Тип": "стіл",
+                "Форма": "Квадратний",
+                "Ширина, см": "45",
+                "Висота, см": "45",
+                "Довжина, см": "45",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "2.8",
+                "Країна виробник": "Турція"
+            }
+        },
+        {
+            "id": "33098",
+            "tags": [
+                "Новинка",
+                "-7%"
+            ],
+            "link": "product.html?product_id=33098",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/darwin-44/17212741_new_2024_darwin4x4_11367_cmyk-260x260.webp",
+            "title": "Пластиковий сарай KETER DARWIN 4 × 4 Коричневий",
+            "price": "19 690 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "квадратний",
+                "Ширина, см": "118",
+                "Висота, см": "205",
+                "Довжина, см": "117",
+                "Збирання": "збірний",
+                "Колір": "коричневий",
+                "Вага, кг": "44,5",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33102",
+            "tags": [
+                "Новинка",
+                "-7%"
+            ],
+            "link": "product.html?product_id=33102",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/darwin-44/85-260x260.webp",
+            "title": "Пластиковий сарай KETER DARWIN 4 × 6 Зелений",
+            "price": "24 590 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "125.8",
+                "Висота, см": "205",
+                "Довжина, см": "184.5",
+                "Збирання": "збірний",
+                "Колір": "зелений",
+                "Вага, кг": "58.5",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33330",
+            "tags": [],
+            "link": "product.html?product_id=33330",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/darwin64/zel-260x260.webp",
+            "title": "Пластиковий сарай KETER DARWIN 6х4 Зелений",
+            "price": "32 940 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "190",
+                "Висота, см": "221",
+                "Довжина, см": "121",
+                "Збирання": "збірний",
+                "Колір": "зелений",
+                "Вага, кг": "59",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32491",
+            "tags": [],
+            "link": "product.html?product_id=32491",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/darwin6x6/6486346886-260x260.webp",
+            "title": "Пластиковий сарай KETER DARWIN 6х6 Коричневий",
+            "price": "49 950 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "190",
+                "Висота, см": "221",
+                "Довжина, см": "182",
+                "Збирання": "збірний",
+                "Колір": "коричневий",
+                "Вага, кг": "74",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32492",
+            "tags": [],
+            "link": "product.html?product_id=32492",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/darwin6x6grey/5498684864-260x260.webp",
+            "title": "Пластиковий сарай KETER DARWIN 6х6 Сірий",
+            "price": "49 950 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "190",
+                "Висота, см": "221",
+                "Довжина, см": "182",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "74",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32415",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32415",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/darwin68/489449494849-260x260.webp",
+            "title": "Пластиковий сарай KETER DARWIN 6х8 Коричневий",
+            "price": "60 650 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "190",
+                "Висота, см": "221",
+                "Довжина, см": "244",
+                "Збирання": "збірний",
+                "Колір": "коричневий",
+                "Вага, кг": "90",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33168",
+            "tags": [
+                "-15%"
+            ],
+            "link": "product.html?product_id=33168",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/easy-go-breeze-50/img_9706-260x260.webp",
+            "title": "Садова тачка KETER EASY GO BREEZE 50л Зелена",
+            "price": "1 050 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Ширина, см": "51",
+                "Висота, см": "84",
+                "Довжина, см": "56",
+                "Колір": "зелений",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33171",
+            "tags": [
+                "-15%"
+            ],
+            "link": "product.html?product_id=33171",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/easy-go-breeze-50/5713789952_w640_h640_tachka-sado-260x260.webp",
+            "title": "Садова тачка KETER EASY GO BREEZE 50л Капучино",
+            "price": "1 050 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Ширина, см": "51",
+                "Висота, см": "84",
+                "Довжина, см": "56",
+                "Колір": "Капучино",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "6197",
+            "tags": [
+                "-15%"
+            ],
+            "link": "product.html?product_id=6197",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/6197/1/sadovaya-tachka-telezhka-keter-easy-go-breeze-50-l-chernaya-236500-83078938049341-260x260.webp",
+            "title": "Садова тачка KETER EASY GO BREEZE 50л Чорна",
+            "price": "1 050 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Ширина, см": "51",
+                "Висота, см": "84",
+                "Довжина, см": "56",
+                "Колір": "черный",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32699",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32699",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/manor43bej/casetta-da-giardino-manor-4x3-beige-260x260.webp",
+            "title": "Садовий будинок KETER MANOR 4×3 Бежевий",
+            "price": "18 180 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "94",
+                "Висота, см": "196",
+                "Довжина, см": "128",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "29",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "6271",
+            "tags": [],
+            "link": "product.html?product_id=6271",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/6271/1/caseta-keter-manor-4x6-s-gris-260x260.webp",
+            "title": "Садовий будинок KETER MANOR 4х6 S сірий",
+            "price": "24 590 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "130",
+                "Висота, см": "198",
+                "Довжина, см": "192",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "43.5",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32162",
+            "tags": [
+                "Новинка",
+                "-17%"
+            ],
+            "link": "product.html?product_id=32162",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/manor66/125982987_1071226486682878_474582013308257802_o_casetta%2Bgiardino%2Bpolipropilene-260x260.webp",
+            "title": "Садовий будинок KETER MANOR Manor Pent 6x6 Сірий",
+            "price": "35 000 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "183,5",
+                "Висота, см": "200,5",
+                "Довжина, см": "183,5",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "66",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32047",
+            "tags": [],
+            "link": "product.html?product_id=32047",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/premier757/sadovyy-plastikovyy-domik-keter-premier-757-249352-korichnevo-seryy-97781857724114-260x260.webp",
+            "title": "Садовий будинок KETER Premier 757 коричнево - сірий",
+            "price": "74 340 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "132",
+                "Висота, см": "252",
+                "Довжина, см": "227",
+                "Збирання": "збірний",
+                "Колір": "сірий/коричневий",
+                "Вага, кг": "140",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32141",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32141",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/oakland754/keter_oakland_754_lead_1-260x260.webp",
+            "title": "Сарай пластиковий KETER OAKLAND 754 Сірий",
+            "price": "59 900 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "210",
+                "Висота, см": "253",
+                "Довжина, см": "124,8",
+                "Збирання": "збірній",
+                "Колір": "сірий",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33755",
+            "tags": [],
+            "link": "product.html?product_id=33755",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/cortina_bella/yashchyk-shafa-dlia-zberihannia-v-sadu-keter-cortina-bella-255514-85022666955966-260x260.webp",
+            "title": "Скриня-шафа для зберігання Keter Cortina Bella Графіт",
+            "price": "13 900 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "140",
+                "Висота, см": "120",
+                "Довжина, см": "73.6",
+                "Збирання": "збірній",
+                "Колір": "графіт",
+                "Вага, кг": "27.8",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32969",
+            "tags": [
+                "Хіт"
+            ],
+            "link": "product.html?product_id=32969",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/gazgrill/screenshot_1-260x260.webp",
+            "title": "Газовий гриль Broil King BK 310",
+            "price": "24 900 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "алюміній/нержавіюча сталь",
+                "Тип": "газовий гриль",
+                "Форма": "приямокутний",
+                "Ширина, см": "54",
+                "Висота, см": "123",
+                "Довжина, см": "110",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "30",
+                "Країна виробник": "США"
+            }
+        },
+        {
+            "id": "32693",
+            "tags": [],
+            "link": "product.html?product_id=32693",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/hksvjaleniem/_dsc0289-260x260.webp",
+            "title": "Комплект холодного копчення із в'яленням DADDY SMOKE",
+            "price": "18 380 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "коптильня х/к з в'яленням",
+                "Форма": "прямокутник",
+                "Ширина, см": "45",
+                "Висота, см": "120",
+                "Довжина, см": "60",
+                "Збирання": "незбірний",
+                "Колір": "чорний",
+                "Вага, кг": "34",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32686",
+            "tags": [
+                "Хіт"
+            ],
+            "link": "product.html?product_id=32686",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/promo/32686-promo-260x260.webp",
+            "title": "Мангал барбекю DADDY SMOKE на 12 шомпурів",
+            "price": "11 750 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "мангал барбекю",
+                "Форма": "прямокутний",
+                "Ширина, см": "35",
+                "Висота, см": "124",
+                "Довжина, см": "99.5",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "34",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32684",
+            "tags": [],
+            "link": "product.html?product_id=32684",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/6barbekju/_dsc1307-260x260.webp",
+            "title": "Мангал барбекю DADDY SMOKE на 6 шомпурів",
+            "price": "8 800 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "мангал барбекю",
+                "Форма": "прямокутний",
+                "Ширина, см": "40",
+                "Висота, см": "83",
+                "Довжина, см": "62.5",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33768",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33768",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/flanix/crystal/img_9109-260x260.webp",
+            "title": "Чаша для вогню Flanix Crystal",
+            "price": "5 300 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "чаша для вогню",
+                "Форма": "круглий",
+                "Ширина, см": "85,7",
+                "Висота, см": "17,8",
+                "Довжина, см": "85,7",
+                "Збирання": "збірний",
+                "Колір": "метал",
+                "Вага, кг": "15,4",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33247",
+            "tags": [],
+            "link": "product.html?product_id=33247",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/oxaround/4-260x260.webp",
+            "title": "Гриль - вогнище OXA Round з CorTen",
+            "price": "28 500 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль барбекю",
+                "Форма": "круглий",
+                "Ширина, см": "958",
+                "Висота, см": "500",
+                "Довжина, см": "958",
+                "Збирання": "збірний",
+                "Колір": "CorTen (кортенівська сталь)",
+                "Вага, кг": "84",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32696",
+            "tags": [],
+            "link": "product.html?product_id=32696",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/dimogenerator/untitled-1-260x260.webp",
+            "title": "Димогенератор DADDY SMOKE з конденсатозбірником 2,5 л. Чорний",
+            "price": "3 500 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "димогенератор",
+                "Форма": "циліндр",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32974",
+            "tags": [
+                "Хіт"
+            ],
+            "link": "product.html?product_id=32974",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/gazgrill/nap-260x260.webp",
+            "title": "Газовий гриль Napoleon Freestyle 365",
+            "price": "34 980 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "чавун/алюміній",
+                "Тип": "газовий гриль",
+                "Форма": "прямокутний",
+                "Ширина, см": "64",
+                "Висота, см": "116",
+                "Довжина, см": "124",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "55",
+                "Країна виробник": "Канада"
+            }
+        },
+        {
+            "id": "33603",
+            "tags": [],
+            "link": "product.html?product_id=33603",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/oxa_glow/5-1000x1000-260x260.webp",
+            "title": "Гриль-вогнище OXA Glow чаша для вогню",
+            "price": "26 015 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль-вогнище",
+                "Форма": "чаша",
+                "Ширина, см": "1200",
+                "Висота, см": "460",
+                "Довжина, см": "1200",
+                "Збирання": "збірний",
+                "Колір": "Termodur",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6183",
+            "tags": [],
+            "link": "product.html?product_id=6183",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/files/images/6183/1/komposter-sadovyy-e-composter-chernyy-470-l-231415-keter-29594317498987-260x260.webp",
+            "title": "Компостер садовий KETER E-COMPOSTER 470л Чорний",
+            "price": "2 790 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "квадрат",
+                "Ширина, см": "79",
+                "Висота, см": "79",
+                "Довжина, см": "79",
+                "Збирання": "збірній",
+                "Колір": "чорний",
+                "Вага, кг": "7.1",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33000",
+            "tags": [],
+            "link": "product.html?product_id=33000",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/gazgrill/gril/21-260x260.webp",
+            "title": "Газовий гриль Napoleon ROGUE-425 XT",
+            "price": "66 990 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "чавун/алюміній",
+                "Тип": "газовий гриль",
+                "Форма": "прямокутний",
+                "Ширина, см": "64",
+                "Висота, см": "120",
+                "Довжина, см": "130",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "68",
+                "Країна виробник": "Канада"
+            }
+        },
+        {
+            "id": "32517",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32517",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/factor8x8/65896589654-260x260.webp",
+            "title": "Садовий пластиковий будинок для зберігання KETER Factor 8х8 Бежевий",
+            "price": "69 690 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "квадрат",
+                "Ширина, см": "256,5",
+                "Висота, см": "243",
+                "Довжина, см": "255",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "147",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33767",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33767",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/flanix/crate/img_9304-260x260.webp",
+            "title": "Чаша для вогню -решітка-гриль Flanix Crate",
+            "price": "3 900 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль-вогнище",
+                "Форма": "прямокутний",
+                "Ширина, см": "38,4",
+                "Висота, см": "30",
+                "Довжина, см": "38,4",
+                "Збирання": "збірний",
+                "Колір": "метал",
+                "Вага, кг": "9,2",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32979",
+            "tags": [],
+            "link": "product.html?product_id=32979",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/gazgrill/4-260x260.webp",
+            "title": "Газовий гриль Weber Traveler чорний",
+            "price": "35 199 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "чавун/нержавіюча сталь",
+                "Тип": "газовий гриль",
+                "Форма": "прямокутний",
+                "Ширина, см": "58",
+                "Висота, см": "35",
+                "Довжина, см": "111",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "26",
+                "Країна виробник": "США"
+            }
+        },
+        {
+            "id": "32902",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32902",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/promo/32902-promo-260x260.webp",
+            "title": "Мангал барбекю DADDY SMOKE Brooklyn Big на 12 шомпурів",
+            "price": "11 600 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "мангал барбекю",
+                "Форма": "прямокутний",
+                "Ширина, см": "38,5",
+                "Висота, см": "128",
+                "Довжина, см": "97",
+                "Збирання": "збірний",
+                "Колір": "сріблястий",
+                "Вага, кг": "52",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33177",
+            "tags": [],
+            "link": "product.html?product_id=33177",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/premier-7511/sadovyi-plastykovyi-budynochok-k%2812%29-260x260.webp",
+            "title": "Садовий будиночок KETER Premier 7511 сірий",
+            "price": "93 700 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "228",
+                "Висота, см": "252",
+                "Довжина, см": "350",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "192",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33770",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33770",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/flanix/campfire/img_9348-min-scaled-260x260.webp",
+            "title": "Чаша для вогню -решітка-гриль Flanix Campfire",
+            "price": "3 300 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль-вогнище",
+                "Форма": "прямокутний",
+                "Ширина, см": "41.7",
+                "Висота, см": "36",
+                "Довжина, см": "40.2",
+                "Збирання": "збірний",
+                "Колір": "метал",
+                "Вага, кг": "8",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33248",
+            "tags": [],
+            "link": "product.html?product_id=33248",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/oxacorner/2-260x260.webp",
+            "title": "Гриль - вогнище OXA Corner з CorTen",
+            "price": "15 580 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль барбекю",
+                "Форма": "прямокутний",
+                "Ширина, см": "730",
+                "Висота, см": "400",
+                "Довжина, см": "730",
+                "Збирання": "збірний",
+                "Колір": "CorTen (кортенівська сталь)",
+                "Вага, кг": "53",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33180",
+            "tags": [],
+            "link": "product.html?product_id=33180",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/manor-4%C3%976-bezhevij/15913265599079-260x260.webp",
+            "title": "Садовий будинок KETER MANOR 4х6 S Бежевий",
+            "price": "24 590 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "130",
+                "Висота, см": "198",
+                "Довжина, см": "192",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "43.5",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33179",
+            "tags": [],
+            "link": "product.html?product_id=33179",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/manor-pent-6x6/sadovyi-plastykovyi-budynochok-k%2820%29-260x260.webp",
+            "title": "Садовий будинок KETER MANOR Manor Pent 6x6 Бежевий",
+            "price": "42 140 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "183,5",
+                "Висота, см": "200,5",
+                "Довжина, см": "183,5",
+                "Збирання": "збірний",
+                "Колір": "бежевий",
+                "Вага, кг": "66",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33602",
+            "tags": [],
+            "link": "product.html?product_id=33602",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/oxa_blaze/3-1000x1000-260x260.webp",
+            "title": "Гриль-вогнище OXA Blaze чаша для вогню",
+            "price": "15 125 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль-вогнище",
+                "Форма": "чаша",
+                "Ширина, см": "750",
+                "Висота, см": "565",
+                "Довжина, см": "680",
+                "Збирання": "збірний",
+                "Колір": "Thermodur",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32683",
+            "tags": [],
+            "link": "product.html?product_id=32683",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/fon/kopijancz_8253-0x8005-260x260.webp",
+            "title": "Мангал стаціонарний DADDY SMOKE на 12 шомпурів Комфорт",
+            "price": "9 400 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "мангал",
+                "Форма": "прямокутний",
+                "Ширина, см": "35",
+                "Висота, см": "89.5",
+                "Довжина, см": "124",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "32",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32682",
+            "tags": [],
+            "link": "product.html?product_id=32682",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/fon/kopijancz_1622-0x800-260x260.webp",
+            "title": "Мангал стаціонарний DADDY SMOKE на 8 шомпурів Комфорт",
+            "price": "8 200 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "мангал",
+                "Форма": "прямокутний",
+                "Ширина, см": "35",
+                "Висота, см": "89.5",
+                "Довжина, см": "105",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "26",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33766",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33766",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/flanix/vortex/img_9077-260x260.webp",
+            "title": "Чаша для вогню Flanix Vortex",
+            "price": "6 900 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "чаша для вогню",
+                "Форма": "круглий",
+                "Ширина, см": "60",
+                "Висота, см": "32,5",
+                "Довжина, см": "60",
+                "Збирання": "збірний",
+                "Колір": "метал",
+                "Вага, кг": "18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32689",
+            "tags": [],
+            "link": "product.html?product_id=32689",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/fon/kopijancz_5105-0x800-260x260.webp",
+            "title": "Піч під казан DADDY SMOKE",
+            "price": "15 730 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "піч під казан",
+                "Форма": "квадрат",
+                "Ширина, см": "68",
+                "Висота, см": "85",
+                "Довжина, см": "130",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "60",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33769",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33769",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/flanix/spark/img_9190%281%29-260x260.webp",
+            "title": "Чаша для вогню Flanix Spark",
+            "price": "3 200 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "чаша для вогню",
+                "Форма": "прямокутний",
+                "Ширина, см": "65",
+                "Висота, см": "32",
+                "Довжина, см": "65",
+                "Збирання": "збірний",
+                "Колір": "метал",
+                "Вага, кг": "10",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32678",
+            "tags": [],
+            "link": "product.html?product_id=32678",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/promo/32678-promo-260x260.webp",
+            "title": "Гриль барбекю OXA TEXAS",
+            "price": "28 600 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "гриль барбекю смокер",
+                "Форма": "циліндричний",
+                "Ширина, см": "63",
+                "Висота, см": "107 (без димоходу)",
+                "Довжина, см": "140",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "35",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32692",
+            "tags": [],
+            "link": "product.html?product_id=32692",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/oxa/hkmiddle/_dsc0235-260x260.webp",
+            "title": "Комплект холодного копчення DADDY SMOKE Middle",
+            "price": "10 930 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "коптильня х/к",
+                "Форма": "прямокутник",
+                "Ширина, см": "45",
+                "Висота, см": "120",
+                "Довжина, см": "48",
+                "Збирання": "незбірний",
+                "Колір": "чорний",
+                "Вага, кг": "23",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33249",
+            "tags": [],
+            "link": "product.html?product_id=33249",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/fon/12-0x800-260x260.webp",
+            "title": "Кострова чаша - вогнище OXA Taper з CorTen",
+            "price": "23 320 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал",
+                "Тип": "кострова чаша-вогнище",
+                "Форма": "піраміда",
+                "Ширина, см": "600",
+                "Висота, см": "1400",
+                "Довжина, см": "600",
+                "Збирання": "збірний",
+                "Колір": "CorTen (кортенівська сталь)",
+                "Вага, кг": "67",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32713",
+            "tags": [],
+            "link": "product.html?product_id=32713",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/hollywood/17191974_1-260x260.webp",
+            "title": "Ящик для зовнішнього зберігання KETER Hollywood  270 л Графіт",
+            "price": "2 200 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "45",
+                "Висота, см": "57",
+                "Довжина, см": "117",
+                "Збирання": "збірній",
+                "Колір": "Графіт",
+                "Вага, кг": "5.4",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "32714",
+            "tags": [],
+            "link": "product.html?product_id=32714",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/hollywood/6458789465489969-260x260.webp",
+            "title": "Ящик для зовнішнього зберігання KETER Hollywood  270 л Коричневий",
+            "price": "2 200 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик",
+                "Форма": "прямокутний",
+                "Ширина, см": "45",
+                "Висота, см": "57",
+                "Довжина, см": "117",
+                "Збирання": "збірній",
+                "Колір": "Коричневий",
+                "Вага, кг": "5.4",
+                "Країна виробник": "Ізраїль"
+            }
+        },
+        {
+            "id": "33342",
+            "tags": [],
+            "link": "product.html?product_id=33342",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/svetilniki/aplo_lamp_h24/beznazvanija%289%29-260x260.webp",
+            "title": "Вуличний світильник FERMOB Aplo Lamp H24 Acapulco Blue Синій",
+            "price": "3 470 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "пластик / алюміній",
+                "Тип": "світильник",
+                "Форма": "круглий",
+                "Ширина, см": "11,5",
+                "Висота, см": "24",
+                "Довжина, см": "11,5",
+                "Збирання": "не збірний",
+                "Колір": "білий/синій",
+                "Вага, кг": "0,48",
+                "Країна виробник": "Франція"
+            }
+        },
+        {
+            "id": "32904",
+            "tags": [],
+            "link": "product.html?product_id=32904",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/daddy-grill/art03056-260x260.webp",
+            "title": "Мангал барбекю DADDY GRILL",
+            "price": "15 000 ₴",
+            "category": "garden-tools",
+            "characteristics": {
+                "Матеріал": "метал / вогнетривкий камінь",
+                "Тип": "гриль барбекю",
+                "Форма": "прямокутний",
+                "Ширина, см": "35",
+                "Висота, см": "114",
+                "Довжина, см": "126",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "80",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33574",
+            "tags": [
+                "Новинка",
+                "-10%"
+            ],
+            "link": "product.html?product_id=33574",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/alonzo-bilij-bilij-lucky/img00050-260x260.webp",
+            "title": "Кухонний комплект Onto Алонзо 100 білий - білий розсувний стіл + 4 стільці Lucky сірий",
+            "price": "15 215 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /дерево Стілець: метал / велюр",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "Прямокутний",
+                "Збирання": "розсувний",
+                "Колір": "білий",
+                "Розміри столу, Д*Ш*В (см)": "100-140*65*75",
+                "Вага, кг": "Стілец: 5 . Стіл: 28",
+                "Країна виробник": "Стіл: Україна, Стілець: Китай"
+            }
+        },
+        {
+            "id": "33764",
+            "tags": [
+                "-18%"
+            ],
+            "link": "product.html?product_id=33764",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/leonardo-100-120-chornij/img00745-260x260.webp",
+            "title": "Комплект обідній Onto Леонардо 100 чорний + 4 стільці Даріо чорні",
+            "price": "17 450 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ/HPL пластик /дерево",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "Прямокутний",
+                "Збирання": "розсувний",
+                "Колір": "Чорний",
+                "Розміри столу, Д*Ш*В (см)": "100-140*65*75",
+                "Вага, кг": "Стілець: 5. Стіл: 28",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33428",
+            "tags": [
+                "Новинка",
+                "-18%"
+            ],
+            "link": "product.html?product_id=33428",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/leonardo-100-120-siro-bezh/new/img018691-260x260.webp",
+            "title": "Комплект обідній Onto Леонардо 120 сіро-бежевий + 4 стільці Даріо сірі",
+            "price": "17 965 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ/HPL пластик /дерево",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "Прямокутний",
+                "Збирання": "розсувний",
+                "Колір": "Сіро-бежевий",
+                "Розміри столу, Д*Ш*В (см)": "120-160*75*75",
+                "Вага, кг": "Стілець: 5. Стіл: 30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5358",
+            "tags": [
+                "Хіт",
+                "-16%"
+            ],
+            "link": "product.html?product_id=5358",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120belyj/img_0636-1-260x260.webp",
+            "title": "Стіл прямокутний обідній кухонний Onto Вінцензо 120 Білий",
+            "price": "5 300 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "70",
+                "Висота, см": "75",
+                "Довжина, см": "120",
+                "Збирання": "нерозсувний",
+                "Колір": "білий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32857",
+            "tags": [
+                "Новинка",
+                "-19%"
+            ],
+            "link": "product.html?product_id=32857",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/dario/dario-sirij-2024/img01791-260x260.webp",
+            "title": "Стілець Onto Даріо Сірий",
+            "price": "2 500 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "45",
+                "Висота, см": "81.5",
+                "Довжина, см": "50",
+                "Збирання": "розбірний",
+                "Колір": "сірий",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6097",
+            "tags": [
+                "Хіт",
+                "-10%"
+            ],
+            "link": "product.html?product_id=6097",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120belyj/img_0747-1-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Вінцензо 120 білий прямокутний стіл + 4 стільця",
+            "price": "8 800 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /дерево Стілець: дерево/пластик",
+                "Тип": "стіл+4 стільця",
+                "Форма": "прямокутний",
+                "Збирання": "нерозсувний",
+                "Колір": "білий",
+                "Розміри столу, Д*Ш*В (см)": "120*70*75",
+                "Вага, кг": "Стілец: 4,6 . Стіл :20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33432",
+            "tags": [
+                "Новинка",
+                "-15%"
+            ],
+            "link": "product.html?product_id=33432",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/leonardo-100-120-siro-bezh/new/img018481-260x260.webp",
+            "title": "Кухонний стіл обідній розкладний Onto Леонардо 120 сіро-бежевий",
+            "price": "7 965 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "Прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120-160",
+                "Збирання": "розсувний",
+                "Колір": "сіро-бежевий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33657",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33657",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/arcos/hoker-arcos-2-szare-welurowe%284%29-260x260.webp",
+            "title": "Барний стілець Arcos велюр сірий",
+            "price": "2 850 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "45",
+                "Висота, см": "112",
+                "Глибина, см": "42",
+                "Збирання": "збірний",
+                "Колір": "Сірий",
+                "Вага, кг": "7",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "32872",
+            "tags": [
+                "Новинка",
+                "-15%"
+            ],
+            "link": "product.html?product_id=32872",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/antonio-leonardo-bilij/wood0000591111-260x260.webp",
+            "title": "Стіл прямокутний кухонний Onto Антоніо 120 Мармур білий",
+            "price": "5 550 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "Прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120",
+                "Збирання": "нерозсувний",
+                "Колір": "мармур білий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32863",
+            "tags": [
+                "Новинка",
+                "-9%"
+            ],
+            "link": "product.html?product_id=32863",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/robin-piado/siri/krzeslo-do-jadalni-welurowe-robin-szare-nowoczesne-loft%284%29-260x260.webp",
+            "title": "Стілець Piado велюр сірий",
+            "price": "1 500 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "44",
+                "Висота, см": "89",
+                "Глибина, см": "52",
+                "Збирання": "збірний",
+                "Колір": "Сірий",
+                "Вага, кг": "5",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "6069",
+            "tags": [
+                "-10%"
+            ],
+            "link": "product.html?product_id=6069",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120seryj/img_9839-260x260.webp",
+            "title": "Стіл прямокутний обідній кухонний Onto Вінцензо 100 Сірий",
+            "price": "4 880 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "65",
+                "Висота, см": "75",
+                "Довжина, см": "100",
+                "Збирання": "нерозсувний",
+                "Колір": "сірий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33427",
+            "tags": [
+                "-9%"
+            ],
+            "link": "product.html?product_id=33427",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/ibis/girchichni/krzeslo-tapicerowane-do-jadalni-ibis-musztardowe-welurowe-nowoczesne-loft%284%29-260x260.webp",
+            "title": "Стілець Lava велюр гірчичний",
+            "price": "1 500 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "43",
+                "Висота, см": "90,5",
+                "Глибина, см": "50",
+                "Збирання": "збірний",
+                "Колір": "гірчичний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "32657",
+            "tags": [],
+            "link": "product.html?product_id=32657",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100sirij%2Bbezhevij%2Bfabio/grey/img01021-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Вінцензо 100 сірий стіл + 4 Табурета",
+            "price": "8 680 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ/HPL пластик /дерево",
+                "Тип": "стіл + 4 табурета",
+                "Форма": "прямокутний",
+                "Збирання": "нерозсувний",
+                "Колір": "сірий",
+                "Розміри столу, Д*Ш*В (см)": "100*65*75",
+                "Вага, кг": "Табурет: 4 . Стіл: 18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32869",
+            "tags": [
+                "Новинка",
+                "-16%"
+            ],
+            "link": "product.html?product_id=32869",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120-marmur-chornij/img00178-260x260.webp",
+            "title": "Стіл прямокутний кухонний Onto Вінцензо Преміум 120 Мармур чорний",
+            "price": "5 300 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "Прямокутний",
+                "Ширина, см": "70",
+                "Висота, см": "75",
+                "Довжина, см": "120",
+                "Збирання": "нерозсувний",
+                "Колір": "чорний",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5128",
+            "tags": [
+                "Хіт"
+            ],
+            "link": "product.html?product_id=5128",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120belyj/img_0508-1-260x260.webp",
+            "title": "Стілець Classic Білий",
+            "price": "875 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "дерево / пластик",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "46",
+                "Висота, см": "81",
+                "Глибина, см": "41",
+                "Збирання": "розбірний",
+                "Колір": "білий",
+                "Вага, кг": "4.3",
+                "Країна виробник": "Малайзія"
+            }
+        },
+        {
+            "id": "33210",
+            "tags": [
+                "Новинка",
+                "-9%"
+            ],
+            "link": "product.html?product_id=33210",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/leonardo-100-120-marmur-chornij/img00204-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Леонардо 120 чорний чорні ніжки + 4 стільці Piado чорний",
+            "price": "13 965 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ/HPL пластик /дерево",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "Прямокутний",
+                "Збирання": "розсувний",
+                "Колір": "Мармур чорний",
+                "Розміри столу, Д*Ш*В (см)": "120-160*75*75",
+                "Вага, кг": "Стілець: 5. Стіл: 30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32622",
+            "tags": [
+                "Новинка",
+                "-15%"
+            ],
+            "link": "product.html?product_id=32622",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120alonzobelyj%2Bvitobelyj/120/img00494-260x260.webp",
+            "title": "Стіл кухонний обідній розкладний Onto Алонзо 120 Преміум Білий",
+            "price": "7 730 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120-160",
+                "Збирання": "розсувний",
+                "Колір": "білий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33498",
+            "tags": [],
+            "link": "product.html?product_id=33498",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/lucky/black/image%2830%29-260x260.webp",
+            "title": "Стілець кухоний Lucky Чорний",
+            "price": "2 000 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / велюр",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "47",
+                "Висота, см": "87",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "33201",
+            "tags": [
+                "Новинка",
+                "-15%"
+            ],
+            "link": "product.html?product_id=33201",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/leonardo-100-120-marmur-chornij/img00191-260x260.webp",
+            "title": "Кухонний стіл обідній розкладний Onto Леонардо 120 чорний чорні ніжки",
+            "price": "7 965 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "Прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120-160",
+                "Збирання": "розсувний",
+                "Колір": "мармур чорний",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33081",
+            "tags": [
+                "Новинка",
+                "-19%"
+            ],
+            "link": "product.html?product_id=33081",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/dario/bezhevi-bili-nizhki/img00887-260x260.webp",
+            "title": "Стілець Onto Даріо Бежевий білі ніжки",
+            "price": "2 500 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "45",
+                "Висота, см": "81.5",
+                "Довжина, см": "50",
+                "Збирання": "розбірний",
+                "Колір": "бежевий",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33573",
+            "tags": [
+                "Новинка",
+                "-10%"
+            ],
+            "link": "product.html?product_id=33573",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/alonzo-bilij-bilij-lucky/img00030-260x260.webp",
+            "title": "Кухонний комплект Onto Алонзо 120 білий - білий розсувний стіл + 4 стільці Lucky сірий",
+            "price": "15 730 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /дерево Стілець: метал / велюр",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "Прямокутний",
+                "Збирання": "розсувний",
+                "Колір": "білий",
+                "Розміри столу, Д*Ш*В (см)": "120-160*75*75",
+                "Вага, кг": "Стілец: 5 . Стіл: 30",
+                "Країна виробник": "Стіл: Україна, Стілець: Китай"
+            }
+        },
+        {
+            "id": "31886",
+            "tags": [
+                "Хіт",
+                "-15%"
+            ],
+            "link": "product.html?product_id=31886",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120alonzoderevo%2Bvito/bilij/m_00524-260x260.webp",
+            "title": "Стіл кухонний обідній розкладний Onto Алонзо 120-160 Білий",
+            "price": "7 730 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120-160",
+                "Збирання": "розсувний",
+                "Колір": "білий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32702",
+            "tags": [
+                "-22%"
+            ],
+            "link": "product.html?product_id=32702",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/vito/premiumderevo/m_00332-260x260.webp",
+            "title": "Стілець Onto Віто Преміум дерево Бежевий",
+            "price": "1 950 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ / дерево",
+                "Тип": "стілець",
+                "Ширина, см": "47",
+                "Висота, см": "80",
+                "Довжина, см": "50",
+                "Збирання": "розбірний",
+                "Колір": "бежевий",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "23402",
+            "tags": [
+                "-15%"
+            ],
+            "link": "product.html?product_id=23402",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/dzhuliano/seryj/img_8231-260x260.webp",
+            "title": "Обідній комплект Onto Джуліано 120 Луна",
+            "price": "19 615 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /метал. Стілець: метал/тканина",
+                "Тип": "стіл +4 стільця",
+                "Форма": "прямокутний",
+                "Збирання": "нерозсувний",
+                "Колір": "сірий",
+                "Розміри столу, Д*Ш*В (см)": "120*75*72",
+                "Вага, кг": "Стілец: 7 . Стіл : 15",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "24010",
+            "tags": [
+                "Хіт",
+                "-15%"
+            ],
+            "link": "product.html?product_id=24010",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/photoeditorsdk-export%2845%29-260x260.webp",
+            "title": "Стіл круглий обідній кухонний Onto Густаво 90 Білий",
+            "price": "4 990 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "круглий",
+                "Ширина, см": "90",
+                "Висота, см": "75",
+                "Довжина, см": "90",
+                "Збирання": "нерозсувний",
+                "Колір": "білий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33519",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33519",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/lucky/black-white/krzeslo-lucky-czarne-z-bialymi-n%287%29-260x260.webp",
+            "title": "Стілець кухоний Lucky Чорний білі ніжки",
+            "price": "2 000 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / велюр",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "47",
+                "Висота, см": "87",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "33517",
+            "tags": [],
+            "link": "product.html?product_id=33517",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/rick/black-tkanina/krzeslo-rick-2-czarne-tapicerowa%285%29-260x260.webp",
+            "title": "Стілець кухоний RICK Чорний з тканини",
+            "price": "2 499 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "53",
+                "Висота, см": "87",
+                "Глибина, см": "59",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "6119",
+            "tags": [
+                "-10%"
+            ],
+            "link": "product.html?product_id=6119",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/vincenzo120bezh/stari-foto/img_2860-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Вінцензо 120 бежевий прямокутний стіл + 4 стільця",
+            "price": "8 800 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /дерево Стілець: дерево/пластик",
+                "Тип": "стіл+4 стільця",
+                "Форма": "прямокутний",
+                "Збирання": "нерозсувний",
+                "Колір": "бежевий",
+                "Розміри столу, Д*Ш*В (см)": "120*70*75",
+                "Вага, кг": "Стілец: 4,6 . Стіл :18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "6048",
+            "tags": [
+                "-16%"
+            ],
+            "link": "product.html?product_id=6048",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/vincenzo100bezh/novaja/img_94971-260x260.webp",
+            "title": "Стіл прямокутний обідній кухонний Onto Вінцензо 120 Бежевий",
+            "price": "5 300 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "70",
+                "Висота, см": "75",
+                "Довжина, см": "120",
+                "Збирання": "нерозсувний",
+                "Колір": "бежевий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32653",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32653",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/askalon/aleks/aleks3189465-260x260.webp",
+            "title": "Стілець Askalon Алекс Коричневий темні ніжки",
+            "price": "3 850 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Фанера / дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "46",
+                "Висота, см": "78",
+                "Глибина, см": "56",
+                "Збирання": "нерозбірний",
+                "Колір": "коричневий",
+                "Вага, кг": "7",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32652",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32652",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/askalon/aleks/654846589-260x260.webp",
+            "title": "Стілець Askalon Алекс Сірий світлі ніжки",
+            "price": "3 850 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Фанера / дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "46",
+                "Висота, см": "78",
+                "Глибина, см": "56",
+                "Збирання": "нерозбірний",
+                "Колір": "сірий",
+                "Вага, кг": "7",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32647",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32647",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/askalon/logan/img_5293-260x260.webp",
+            "title": "Стілець Askalon Логан Блактиний темні ніжки",
+            "price": "4 420 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ / дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "46",
+                "Висота, см": "78",
+                "Глибина, см": "56",
+                "Збирання": "нерозбірний",
+                "Колір": "блакитний",
+                "Вага, кг": "7",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32645",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32645",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/askalon/logan/img_5278-260x260.webp",
+            "title": "Стілець Askalon Логан Салатовий світлі ніжки",
+            "price": "4 420 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ / дерево / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "46",
+                "Висота, см": "78",
+                "Глибина, см": "56",
+                "Збирання": "нерозбірний",
+                "Колір": "салатний",
+                "Вага, кг": "7",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32643",
+            "tags": [
+                "Новинка",
+                "-14%"
+            ],
+            "link": "product.html?product_id=32643",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120sirij%2Bbezh%2Bvito/100/img00746_2-260x260.webp",
+            "title": "Стілець Onto Віто Бежевий",
+            "price": "1 799 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ / дерево",
+                "Тип": "стілець",
+                "Ширина, см": "47",
+                "Висота, см": "80",
+                "Довжина, см": "50",
+                "Збирання": "розбірний",
+                "Колір": "бежевий",
+                "Вага, кг": "5",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33422",
+            "tags": [
+                "-6%"
+            ],
+            "link": "product.html?product_id=33422",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/peru/bezhevi/krzeslo-tapicerowane-do-jadalni-peru-bezowe-welurowe-nowoczesne-loft%287%29-260x260.webp",
+            "title": "Стілець Peru велюр бежевий",
+            "price": "1 650 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "42",
+                "Висота, см": "91.5",
+                "Глибина, см": "52",
+                "Збирання": "збірний",
+                "Колір": "Бежевий",
+                "Вага, кг": "5",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "33521",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33521",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/lucky/black-gold/krzeslo-lucky-czarne-ze-zlotymi%285%29-260x260.webp",
+            "title": "Стілець кухоний Lucky Чорний золоті ніжки",
+            "price": "2 000 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / велюр",
+                "Тип": "стілець",
+                "Форма": "ківш",
+                "Ширина, см": "47",
+                "Висота, см": "87",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "чорний",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "32273",
+            "tags": [
+                "Новинка",
+                "-10%"
+            ],
+            "link": "product.html?product_id=32273",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/90gustavo/img_9958-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Густаво 90 New круглий стіл + 4 стільця бежевий",
+            "price": "10 390 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /дерево Стілець: пластик/дерево",
+                "Тип": "стіл+4 стільця",
+                "Форма": "коло",
+                "Збирання": "нерозсувний",
+                "Колір": "бежевий",
+                "Розміри столу, Д*Ш*В (см)": "90*75",
+                "Вага, кг": "Стілец: 4,6 . Стіл :18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32500",
+            "tags": [
+                "-15%"
+            ],
+            "link": "product.html?product_id=32500",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/alonzo-dario/bezhevij/img00468-260x260.webp",
+            "title": "Стіл кухонний розкладний Onto Алонзо 120-160 Бежевий",
+            "price": "7 730 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120-160",
+                "Збирання": "розсувний",
+                "Колір": "бежевий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "5759",
+            "tags": [
+                "Хіт"
+            ],
+            "link": "product.html?product_id=5759",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/comfort/white/m_00417-260x260.webp",
+            "title": "Стілець Comfort Білий",
+            "price": "1 450 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "дерево / пластик",
+                "Тип": "стілець",
+                "Ширина, см": "47",
+                "Висота, см": "81.5",
+                "Глибина, см": "43",
+                "Збирання": "розбірний",
+                "Колір": "білий",
+                "Вага, кг": "4.6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "6135",
+            "tags": [
+                "-10%"
+            ],
+            "link": "product.html?product_id=6135",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120seryj/img_9959-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Вінцензо 120 сірий прямокутний стіл + 4 стільця",
+            "price": "8 800 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "Стіл: МДФ/HPL пластик /дерево Стілець: дерево/пластик",
+                "Тип": "стіл +4 стільця",
+                "Форма": "прямокутний",
+                "Збирання": "нерозсувний",
+                "Колір": "сірий",
+                "Розміри столу, Д*Ш*В (см)": "120*70*75",
+                "Вага, кг": "Стілец: 4,6 . Стіл :18",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32102",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=32102",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/fabricio/shpon-2024/img00170-260x260.webp",
+            "title": "Стіл прямокутний обідній Onto Фабріціо Дерево",
+            "price": "9 600 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "75",
+                "Висота, см": "75",
+                "Довжина, см": "120",
+                "Збирання": "нерозсувний",
+                "Колір": "дерево",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ/шпон",
+                "Вага, кг": "25",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "8796",
+            "tags": [
+                "-16%"
+            ],
+            "link": "product.html?product_id=8796",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/100-120korichnevyj/gka_2815-260x260.webp",
+            "title": "Стіл прямокутний обідній кухонний Onto Вінцензо Преміум 120 Коричневий",
+            "price": "5 300 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "прямокутний",
+                "Ширина, см": "70",
+                "Висота, см": "75",
+                "Довжина, см": "120",
+                "Збирання": "нерозсувний",
+                "Колір": "коричневий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "20",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "33211",
+            "tags": [
+                "Новинка",
+                "-9%"
+            ],
+            "link": "product.html?product_id=33211",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/leonardo-100-120-marmur-chornij/img00217-260x260.webp",
+            "title": "Комплект кухонних меблів Onto Леонардо 120 чорний чорні ніжки + 4 стільці Piado сірі",
+            "price": "13 965 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "МДФ/HPL пластик /дерево",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "Прямокутний",
+                "Збирання": "розсувний",
+                "Колір": "Мармур чорний",
+                "Розміри столу, Д*Ш*В (см)": "120-160*75*75",
+                "Вага, кг": "Стілець: 5. Стіл: 30",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32568",
+            "tags": [
+                "-27%"
+            ],
+            "link": "product.html?product_id=32568",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/vigo/new/img00891-260x260.webp",
+            "title": "Стілець MAF Vigo Сірий",
+            "price": "1 500 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "44",
+                "Висота, см": "85",
+                "Глибина, см": "52",
+                "Збирання": "збірний",
+                "Колір": "Сірий",
+                "Вага, кг": "6",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "33509",
+            "tags": [
+                "Новинка"
+            ],
+            "link": "product.html?product_id=33509",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/mebel-elite/torino/krzeslo-torino-szare-260x260.webp",
+            "title": "Крісло TORINO Сіре",
+            "price": "2 600 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал/тканина",
+                "Тип": "Одномісний",
+                "Ширина, см": "53",
+                "Висота, см": "91",
+                "Глибина, см": "58",
+                "Збирання": "збірний",
+                "Колір": "сірий",
+                "Вага, кг": "8",
+                "Країна виробник": "Китай"
+            }
+        },
+        {
+            "id": "32132",
+            "tags": [
+                "Новинка",
+                "-8%"
+            ],
+            "link": "product.html?product_id=32132",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/woodlight/fabricio/seryj/gka_2447-260x260.webp",
+            "title": "Кухонний комплект Onto Фабріціо сірий прямокутний стіл + 4 стільця Lava Velvet сірі",
+            "price": "17 925 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "стіл: МДФ + скло, дерев'яні ніжки, стілець: метал каркас, оббивка вельвет.",
+                "Тип": "стіл + 4 стільця",
+                "Форма": "прямокутний",
+                "Збирання": "нерозсувний",
+                "Колір": "сірий",
+                "Розміри столу, Д*Ш*В (см)": "120*75*75",
+                "Вага, кг": "Стілец: 10. Стіл :25",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "1134",
+            "tags": [
+                "-15%"
+            ],
+            "link": "product.html?product_id=1134",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/photoeditorsdk-export%2848%29-260x260.webp",
+            "title": "Стіл квадратний обідній кухонний Onto Джузеппе Білий",
+            "price": "4 805 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Тип": "стіл",
+                "Форма": "квадратний",
+                "Ширина, см": "80",
+                "Висота, см": "75",
+                "Довжина, см": "80",
+                "Збирання": "нерозсувний",
+                "Колір": "білий",
+                "Матеріал ніжок": "дерево",
+                "Матеріал стільниці": "МДФ / HPL пластик",
+                "Вага, кг": "15",
+                "Країна виробник": "Україна"
+            }
+        },
+        {
+            "id": "32040",
+            "tags": [
+                "-53%"
+            ],
+            "link": "product.html?product_id=32040",
+            "image": "https://woodlight.kh.ua/image/cache/catalog/keter/stuljasentjabr/capri/nra07280-260x260.webp",
+            "title": "Стілець Capri Velvet Зелений",
+            "price": "1 950 ₴",
+            "category": "home-furniture",
+            "characteristics": {
+                "Матеріал": "метал / тканина",
+                "Тип": "стілець",
+                "Ширина, см": "42",
+                "Висота, см": "93",
+                "Глибина, см": "56",
+                "Збирання": "розбірний",
+                "Колір": "зелений",
+                "Вага, кг": "8",
+                "Країна виробник": "Польща"
+            }
+        }
+    ]
+}
