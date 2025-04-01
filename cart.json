@@ -1,0 +1,15 @@
+[
+  {
+    "email": "test@example.com",
+    "items": [
+      {
+        "productId": "32824",
+        "quantity": "1"
+      }
+    ]
+  },
+  {
+    "email": "maks.t.4588@gmail.com",
+    "items": []
+  }
+]
